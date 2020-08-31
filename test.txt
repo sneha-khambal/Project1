@@ -1,10 +1,2 @@
- Volume in drive C is Windows
- Volume Serial Number is 92FD-A5E9
-
- Directory of C:\Users\SR\Desktop\myProject
-
-31/08/2020  08:35 PM    <DIR>          .
-31/08/2020  08:35 PM    <DIR>          ..
-31/08/2020  08:35 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  361,745,686,528 bytes free
+Change -1
+ 
